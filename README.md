@@ -1,3 +1,9 @@
+# bc-react-prototype-env
+
+A React environment for creating prototype designs.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
